@@ -1,65 +1,65 @@
-# 👋 Hi there, I'm **Sumit Kumar**  
-
-🚀 **DevOps & Cloud Enthusiast | Continuous Learner | Automation Advocate**
-
----
-
-### 👨‍💻 About Me  
-I’m a passionate **DevOps Engineer** with a strong foundation in software development and cloud computing.  
-I hold a **BCA** and an **MCA** from *Jain University*, and I enjoy bridging the gap between development and operations through automation, CI/CD, and scalable infrastructure.
-
-I’m always exploring new tools, optimizing workflows, and ensuring smooth, reliable software delivery pipelines.
+# 👋 Hi, I'm Sumit Kumar  
+### 🚀 DevOps Engineer | Cloud Enthusiast | CI/CD & Kubernetes Specialist
 
 ---
 
-### 🧠 What I’m Currently Learning  
-- Advanced **Kubernetes** concepts (Helm, Operators, Service Mesh)  
-- **Infrastructure as Code (IaC)** using **Terraform** & **Ansible**  
-- **AWS Cloud Architecture** & best practices for scalability and security  
-- **Observability** (Prometheus, Grafana, ELK stack)
+## 👨‍💻 About Me  
+I’m a passionate **DevOps Engineer** with strong expertise in cloud platforms, automation, and scalable infrastructure.  
+With an MCA & BCA from *Jain University*, I focus on making development-to-deployment pipelines faster, safer, and more reliable.
+
+I love building automated systems, optimizing workflows, and ensuring smooth, production-grade deployments.
 
 ---
 
-### 🛠️ Tech Stack & Skills  
-
-#### ☁️ **Cloud & Containers**
-- AWS | Azure | Docker | Kubernetes | EKS | ECS  
-
-#### 🔧 **CI/CD & Automation**
-- Jenkins | GitHub Actions | GitLab CI | ArgoCD | Ansible | Terraform  
-
-#### 🧰 **Build & Configuration Tools**
-- Maven | Gradle | Helm | Nginx | Apache  
-
-#### 💾 **Version Control & Collaboration**
-- Git | GitHub | GitLab | Bitbucket  
-
-#### 📊 **Monitoring & Logging**
-- Prometheus | Grafana | ELK Stack | CloudWatch  
-
-#### 💻 **Programming & Scripting**
-- Bash | Python | YAML | Groovy | JSON  
+## 🧠 Currently Learning  
+- Advanced **Kubernetes** (Helm, Operators, Service Mesh)  
+- **Terraform & Ansible** for IaC  
+- **AWS Cloud Architecture** and security best practices  
+- **Observability** using Prometheus, Grafana, and ELK
 
 ---
 
-### 💬 Ask Me About  
-- Setting up scalable CI/CD pipelines  
-- Containerization & orchestration best practices  
-- Infrastructure automation using Terraform/Ansible  
-- Cloud deployment strategies on AWS  
+## 🛠️ Tech Stack & Tools  
+
+### ☁️ Cloud & Containers  
+- **AWS**, **Azure**, **Docker**, **Kubernetes**, **EKS**, **ECS**
+
+### 🔧 CI/CD & Automation  
+- **GitHub Actions**, **GitLab CI**, **Jenkins**, **Argo CD**, **Ansible**, **Terraform**
+
+### 🧰 Build & Configuration  
+- **Helm**, **Maven**, **Gradle**, **NGINX**
+
+### 💾 Version Control  
+- **Git**, **GitHub**, **GitLab**, **Bitbucket**
+
+### 📊 Monitoring & Logging  
+- **Prometheus**, **Grafana**, **ELK Stack**, **CloudWatch**
+
+### 💻 Languages & Scripting  
+- **Python**, **Bash**, **YAML**, **Groovy**, **JSON**
 
 ---
 
-### 📫 How to Reach Me  
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/sumiitkumar](https://linkedin.com/in/sumiitkumar)  
-- 🐙 **GitHub:** [github.com/sumiitkumar](https://github.com/sumiitkumar)
+## 💬 Ask Me About  
+- CI/CD Pipelines  
+- Kubernetes Deployments  
+- Cloud Architecture (AWS & Azure)  
+- Infrastructure Automation (Terraform/Ansible)  
+- Monitoring & Observability
 
 ---
 
-### ⚡ Fun Fact  
-> I love automating repetitive tasks — if I have to do it twice, I’ll script it! 😄
+## 📫 Connect With Me  
+📧 **Email:** sumiitkumar.it@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/sumiitkumar  
+🐙 **GitHub:** https://github.com/sumiitkumar
 
 ---
 
-⭐️ *“Automate Everything. Deploy Anywhere. Monitor Always.”*  
+## ⚡ Fun Fact  
+> If a task is repeated twice, I will automate it the third time. 😄
+
+---
+
+⭐ *“Automate Everything. Deploy Anywhere. Monitor Always.”*  
