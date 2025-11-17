@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sumit Kumar  
-### 🚀 DevOps Engineer | Cloud Enthusiast | CI/CD & Kubernetes Specialist
+### 🚀 DevOps Engineer | Cloud Enthusiast | CI/CD & Kubernetes 
 
 ---
 
@@ -63,3 +63,16 @@ I love building automated systems, optimizing workflows, and ensuring smooth, pr
 ---
 
 ⭐ *“Automate Everything. Deploy Anywhere. Monitor Always.”*  
+
+## 📊 GitHub Stats Dashboard
+![Sumit Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumiitkumar&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=sumiitkumar&theme=tokyonight)
+
+## 🧠 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumiitkumar&layout=compact&theme=tokyonight)
+
+## 👀 Profile Visits
+![Visitor Count](https://komarev.com/ghpvc/?username=sumiitkumar&color=blue)
+
